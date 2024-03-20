@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+**Personal gh**
+- udgarpiya: [@udgarpiya](https://github.com/udgarpiya)
+  
 <!--
 **ud-rabbit/ud-rabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
